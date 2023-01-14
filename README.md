@@ -8,7 +8,7 @@ What I have created
 
 I made a weather app inspired by the beautiful designs made by Olia Gozha. now I am able to find out the live weather data in the current location of my device as well as the weather for any city I can think of!
 
-![Alt text](../../Downloads/clima-demo.gif)
+![Alt text](gif/clima-demo.gif)
 
 What I have learned
 
